@@ -11,7 +11,7 @@
 
 ## INTRODUCTION
 
-The health sector is a crucial sector that needs to be properly examined, and the results should be documented. In the health sector, Data analysis plays a crucial role, as it transforms raw medical information into actionable insights that improve patient care and hospital management. By analyzing patient records and treatment histories, healthcare providers can identify patterns, predict disease outbreaks, and make evidence-based decisions for more accurate diagnoses and personalized treatments. It also helps in optimizing hospital resources, reducing operational costs, and ensuring timely interventions. On a broader scale, data analysis enables policymakers to monitor health trends, evaluate healthcare programs, and design effective strategies to address emerging challenges, ultimately leading to better health outcomes for individuals and communities. 
+The heaLth sector is a crucial sector that needs to be properly examined, and the results should be documented. In the health sector, Data analysis plays a crucial role, as it transforms raw medical information into actionable insights that improve patient care and hospital management. By analyzing patient records and treatment histories, healthcare providers can identify patterns, predict disease outbreaks, and make evidence-based decisions for more accurate diagnoses and personalized treatments. It also helps in optimizing hospital resources, reducing operational costs, and ensuring timely interventions. On a broader scale, data analysis enables policymakers to monitor health trends, evaluate healthcare programs, and design effective strategies to address emerging challenges, ultimately leading to better health outcomes for individuals and communities. 
 
 ## METHODOLOGY
 
