@@ -11,11 +11,11 @@
 
 ## INTRODUCTION
 
-The health sector is a crucial sector that needs to be properly examined, and the results should be documented. In the health sector, Data analysis plays a crucial role, as it transforms raw medical information into actionable insights that improve patient care and hospital management. By analyzing patient records and treatment histories, healthcare providers can identify patterns, predict disease outbreaks, and make evidence-based decisions for more accurate diagnoses and personalized treatments. It also helps in optimizing hospital resources, reducing operational costs, and ensuring timely interventions. On a broader scale, data analysis supports policymakers in monitoring health trends, evaluating healthcare programs, and designing effective strategies to address emerging challenges, ultimately leading to better health outcomes for individuals and communities. 
+The health sector is a crucial sector that needs to be properly examined, and the results should be documented. In the health sector, Data analysis plays a crucial role, as it transforms raw medical information into actionable insights that improve patient care and hospital management. By analyzing patient records and treatment histories, healthcare providers can identify patterns, predict disease outbreaks, and make evidence-based decisions for more accurate diagnoses and personalized treatments. It also helps in optimizing hospital resources, reducing operational costs, and ensuring timely interventions. On a broader scale, data analysis enables policymakers to monitor health trends, evaluate healthcare programs, and design effective strategies to address emerging challenges, ultimately leading to better health outcomes for individuals and communities. 
 
 ## METHODOLOGY
 
-This project is a data analysis report on “HEALTH CARE”, it consists of three parts: patient segmentation, revenue analysis, and doctor performance for one year. The whole analysis covers a descriptive and diagnostic data analysis approach.
+This project is a data analysis report on “HEALTH CARE”, it consists of three parts: patient segmentation, revenue analysis, and doctor performance for one year. The analysis encompasses a descriptive and diagnostic data analysis approach.
 The first step involved in curating this project is data collection. The collection was from the Kaggle website. Power BI tool was secondly used for data transformation, visualization, and building three data dashboards for insight findings. PowerPoint presentation slides were also used for report writing.
 ### KEY METHODOLOGIES APPLIED INCLUDE:
 1.	**PATIENTS SEGMENT ANALYSIS:**
@@ -120,7 +120,7 @@ Before visualization and analysis, the dataset underwent cleaning steps to ensur
 #### DESCRIPTIVE INSIGHTS
 -	Appointment Coverage: Sarah Taylor handled the highest number of appointments (~30), followed by David Taylor and Alex Davis.
 -	Treatment Distribution: Across all doctors, the most common treatments were Chemotherapy (49 cases) and Physiotherapy (41 cases). Sarah Taylor led with the highest treatment counts (29 cases).
--	Appointment Outcomes: Out of 200 total appointments, 51 were cancelled, 46 completed, 52 no-shows, and 51 rescheduled. The high no-show rate (26%) highlights a service gap.
+-	Appointment Outcomes: Out of 200 total appointments, 51 were cancelled, 46 were completed, 52 were no-shows, and 51 were rescheduled. The high no-show rate (26%) highlights a service gap.
 -	Revenue Performance: Sarah Taylor generated the most revenue (~$0.3M), significantly higher than the other doctors, followed by David Taylor and Alex Davis.
 - Workload Balance: Some doctors, like Linda Brown and Robert Davi, had much fewer appointments (<20), which may indicate underutilization compared to peers.
 - Diagnostic Insights:
@@ -129,7 +129,8 @@ Before visualization and analysis, the dataset underwent cleaning steps to ensur
 -	Doctors with lower appointment counts (e.g., Robert Davis, Linda Brown) may either be specialists in less-demanded treatments or underutilized, requiring management review.
 -	Chemotherapy and Physiotherapy dominate, reflecting treatment demand trends that could guide future staffing and training.
   
-### RECOMMENDATION
+### RECOMMENDATIONS
+
 1.	Hospital should expand their services across other health-related issues, employ doctors with different specializations, and try to upgrade tools and utilize resources, x ray services, MRI
 2.	Deploy a health reminder assistant that will send emails to patients reminding them of their appointment.
 3.	The hospital should try deploying a trust wallet for committed patients, so that each month, a certain amount is deducted from the wallet to cover  their health expenses
