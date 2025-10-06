@@ -91,6 +91,8 @@ Before visualization and analysis, the dataset underwent cleaning steps to ensur
   
 ## RESULTS
 ### PATIENTS SEGMENT ANALYSIS
+
+[PATIENTS DASHBOARD](https://github.com/KevDes22/Integrated-Hospital-Performance-Analysis/blob/main/PATIENTS.png)
 #### DESCRIPTIVE INSIGHTS
 -	A total of 50 patients were registered, with an average age of ~45 years.
 -	The gender distribution shows that 62% are male and 38% are Female, indicating higher female utilization of hospital services.
@@ -101,6 +103,8 @@ Before visualization and analysis, the dataset underwent cleaning steps to ensur
 -	Location analysis confirms that patients are distributed across different areas within the United States, allowing for geographical segmentation of service delivery.
 
 ### REVENUE ANALYSIS
+
+[REVENUE DASHBOARD](https://github.com/KevDes22/Integrated-Hospital-Performance-Analysis/blob/main/REVNUE.png)
 #### DESCRIPTIVE INSIGHTS
 -	Total Revenue: The hospital generated $551.25K during the period, with a monthly profit of $27.57K, exceeding its target.
 -	Revenue by Gender: Females contributed 65.52% ($361.2K), while males generated 34.48% ($190.05K), consistent with higher female patient visits in the patient analysis.
@@ -117,6 +121,8 @@ Before visualization and analysis, the dataset underwent cleaning steps to ensur
 -	Revenue concentration in ECG and Chemotherapy implies reliance on a limited set of services, which could pose financial risk if demand shifts.
 
 ### DOCTOR PERFORMANCE
+
+[DOCTOR DASHBOARD](https://github.com/KevDes22/Integrated-Hospital-Performance-Analysis/blob/main/DOCTOR.png)
 #### DESCRIPTIVE INSIGHTS
 -	Appointment Coverage: Sarah Taylor handled the highest number of appointments (~30), followed by David Taylor and Alex Davis.
 -	Treatment Distribution: Across all doctors, the most common treatments were Chemotherapy (49 cases) and Physiotherapy (41 cases). Sarah Taylor led with the highest treatment counts (29 cases).
